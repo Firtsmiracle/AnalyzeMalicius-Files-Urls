@@ -36,5 +36,6 @@ python3 analyzeFileUrl.py
 > Selecciona la opción `a` si deseas analizar un `archivo`
  - Se te pedira ingresar la ruta de un `archivo`
 
+> Presiona `Ctrl-c` si desea salir del programa
 
 Que te diviertas!!!.
