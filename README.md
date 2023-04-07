@@ -18,7 +18,7 @@ Los requisitos son super sencillos:
 2. Una vez confirmada tu cuenta, debes dirigirte a la sección `My Api Key`, se te mostrara un código alfanumerico de 64 bits
 3. Copiar el código e introducirlo en esta parte del script
 
-![]()
+![](https://github.com/Firtsmiracle/AnalyzeMalicius-Files-Urls/blob/main/api.PNG)
 
 y ya estaria vale?
 
@@ -28,7 +28,7 @@ y ya estaria vale?
 python3 analyzeFileUrl.py
 ```
 
-![]()
+![](https://github.com/Firtsmiracle/AnalyzeMalicius-Files-Urls/blob/main/analyze.PNG)
 
 * Selecciona la opción `u` si deseas analizar una `url`
 * Selecciona la opción `a` si deseas analizar un `archivo`
