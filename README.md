@@ -30,9 +30,10 @@ python3 analyzeFileUrl.py
 
 ![](https://github.com/Firtsmiracle/AnalyzeMalicius-Files-Urls/blob/main/analyze.PNG)
 
-* Selecciona la opción `u` si deseas analizar una `url`
+> Selecciona la opción `u` si deseas analizar una `url`
  - Se te pedira ingresar una `url`
-* Selecciona la opción `a` si deseas analizar un `archivo`
+ 
+> Selecciona la opción `a` si deseas analizar un `archivo`
  - Se te pedira ingresar la ruta de un `archivo`
 
 
